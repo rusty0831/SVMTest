@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SVMTest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SVMTest_jar</output-path>
+    <root id="archive" name="SVMTest.jar">
+      <element id="module-output" name="main_mod" />
+      <element id="extracted-dir" path="D:/Software/scala-2.10/spark-assembly-1.1.1-hadoop1.0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files (x86)/scala/lib/scala-actors-2.11.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files (x86)/scala/lib/scala-actors-migration_2.11-1.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files (x86)/scala/lib/scala-library.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files (x86)/scala/lib/scala-parser-combinators_2.11-1.0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files (x86)/scala/lib/scala-reflect.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files (x86)/scala/lib/scala-swing_2.11-1.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files (x86)/scala/lib/scala-xml_2.11-1.0.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

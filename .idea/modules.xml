@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/project/main_mod/main_mod.iml" filepath="$PROJECT_DIR$/project/main_mod/main_mod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/svmtest.iml" filepath="$PROJECT_DIR$/.idea/modules/svmtest.iml" />
+    </modules>
+  </component>
+</project>
